@@ -1,24 +1,13 @@
+# Smart CuteBot Track
 
-> Open this page at [https://brockstar299.github.io/smart-cutebot-track/](https://brockstar299.github.io/smart-cutebot-track/)
+## Use this Project in MakeCode
 
-## Use as Extension
+To use this project in MakeCode:
 
-This repository can be added as an **extension** in MakeCode.
+1. Open [MakeCode](https://makecode.microbit.org/).
+2. Click on **Import**, then select **Import URL**.
+3. Paste **https://github.com/brockstar299/smart-cutebot-track** and click **Import** to load the project.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/brockstar299/smart-cutebot-track** and import
+## What This Project Is
 
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/brockstar299/smart-cutebot-track** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+This is a full MakeCode project for the **CuteBot**
